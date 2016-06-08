@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:46:24.782324
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:57
 #+TITLE: 讚禪門詩
 #+PROPERTY: CBETA_ID T85n2839
 #+PROPERTY: ID KR6q0111
@@ -117,7 +117,7 @@ No.2839¶
 入正受等覺。於色法中三昧起(妙覺)又於眼根¶
 中入正受(理佛性)於色法中三昧起(事佛性)。¶
 
-讚禪門詩一首
+* 讚禪門詩一首
 :PROPERTIES:
 :head: 讚禪門詩一首
 :END:
